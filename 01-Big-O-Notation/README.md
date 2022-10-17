@@ -1,13 +1,13 @@
 # Big O Notation
 
-- [Intro to Big O](./01-Intro-to-big-o.md)
-- [Timing Our Code](./02-timing-our-code.md)
-- [Counting Operations](./03-counting-operations.md)
-- [Visualizing Time Complexities](./04-visualizing-time-complexities.md)
-- [Official Intro to Big O](./05-official-intro-to-big-o.md)
-- [Simplifying Big O Expressions](./06-simplifying-big-o-expressions.md)
-- [Space Complexity](./07-space-complexity.md)
-- [Logs and Section Recap](./08-logs-and-section-recap.md)
+1. [Intro to Big O](./01-Intro-to-big-o.md)
+1. [Timing Our Code](./02-timing-our-code.md)
+1. [Counting Operations](./03-counting-operations.md)
+1. [Visualizing Time Complexities](./04-visualizing-time-complexities.md)
+1. [Official Intro to Big O](./05-official-intro-to-big-o.md)
+1. [Simplifying Big O Expressions](./06-simplifying-big-o-expressions.md)
+1. [Space Complexity](./07-space-complexity.md)
+1. [Logs and Section Recap](./08-logs-and-section-recap.md)
 
 ## Recap
 
