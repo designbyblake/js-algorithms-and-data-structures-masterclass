@@ -43,9 +43,10 @@ function maxSubarraySum(arr, num) {
   // If the array length is less than the numbers needed to add together it gets short circuited .
 
   if (arr.length < num) return null;
-  // get the initial tempSum
+  // get the initial tempSum set initial max sum.
   for (let i = 0; i < num; i++) {
     tempSum += arr[i];
+    maxSum = tempSum;
   }
   // Single loop that slides the window up
   for (let i = num; i < arr.length; i++) {
